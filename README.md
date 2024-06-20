@@ -10,30 +10,12 @@ This Repo contains Few of my projects that I have worked on over the years and i
 
 3) Verbal Vibe: This is a text to speech artistry that utilizes the Eleven Labs Text-to-Speech API to convert text into speech. It prompts the user for an API key, text input, and voice selection, and then generates an audio file with the speech output.
 
-1) Movie Recommendation System:
+4) Movie Recommendation System:
+   
+5) Natural Language Processing Project:
+ 
+6)Neural Networks Project:
 
+7) Supervised Learning Algorrithm:
 
-
-
-
-2) Natural Language Processing Project:
-
-
-
-
-3)Neural Networks Project:
-
-
-
-
-
-4) Stock Prediction: https://github.com/Sathvik047/SP500-Index-Price-Prediction-Model
-
-
-5)Airline Data Analysis:  https://github.com/Sathvik047/Airline-Data-Analysis
-
-
-
-6) Supervised Learning Algorrithm:
-
-7) Social Media Project: https://github.com/Sathvik047/Finstagram
+8) Social Media Project: https://github.com/Sathvik047/Finstagram
