@@ -12,18 +12,27 @@ This Repo contains Few of my projects that I have worked on over the years and i
 
 4) Movie Recommendation System:
 
-This project involves building an implicit feedback recommendation system using the Alternating Least Squares (ALS) algorithm. The goal is to recommend artists to users based on their listening history data from Last.fm.
-Technical Stack:
-Python: Core language for implementation.
-NumPy: Numerical operations.
-SciPy: Sparse matrix operations and linear system solving.
-Matplotlib: Plotting objective function values.
-Pandas: Data manipulation.
+This project involves building an implicit feedback recommendation system using the Alternating Least Squares (ALS) algorithm.
+
+**Technical Stack:**
+
+**Python:** Core language for implementation.
+
+**NumPy:** Numerical operations.
+
+**SciPy:** Sparse matrix operations and linear system solving.
+
+**Matplotlib:** Plotting objective function values.
+
+**Pandas:** Data manipulation.
+
 This project showcases matrix factorization for recommendation systems, focusing on efficiency with sparse data.
    
 5) Natural Language Processing Project:
 
-6) 
+
+
+7) 
  
 6)Neural Networks Project:
 
