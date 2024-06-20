@@ -18,12 +18,8 @@ This Repo contains Few of my projects that I have worked on over the years and i
 
 
 
-4) Stock Prediction:
-
-
-
-
-
+4) Stock Prediction: https://github.com/Sathvik047/SP500-Index-Price-Prediction-Model
+5) 
 5)Airline Data Analysis:  ([https://github.com/Sathvik047/Airline-Data-Analysis])
 
 
