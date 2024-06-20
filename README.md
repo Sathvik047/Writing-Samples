@@ -10,32 +10,19 @@ This Repo contains Few of my projects that I have worked on over the years and i
 
 3) Verbal Vibe: This is a text to speech artistry that utilizes the Eleven Labs Text-to-Speech API to convert text into speech. It prompts the user for an API key, text input, and voice selection, and then generates an audio file with the speech output.
 
-4) Movie Recommendation System:
+4) Movie Recommendation System: ( **Python:**, **NumPy:**, **SciPy:**, **Matplotlib:**, **Pandas:**)
 
 This project involves building an implicit feedback recommendation system using the Alternating Least Squares (ALS) algorithm.
-
-**Technical Stack:**
-
-**Python:** Core language for implementation.
-
-**NumPy:** Numerical operations.
-
-**SciPy:** Sparse matrix operations and linear system solving.
-
-**Matplotlib:** Plotting objective function values.
-
-**Pandas:** Data manipulation.
-
-This project showcases matrix factorization for recommendation systems, focusing on efficiency with sparse data.
    
-5) Natural Language Processing Project:
+5) Natural Language Processing Project:(**Python**, **Gensim**, **Spacy**, **LDA**, **Vectorization**)
 
-
-
-7) 
+Here we used NLP modules Gensim and spacy to perform text mining tasks and sentiment analysis that will figure the correlation amongst various authors based on the similarities in their abstracts
  
-6)Neural Networks Project:
+6)Neural Networks Project: ( **Python:**, **Logistic Regression Model**, **Convolutional Nueral Networks**)
 
-7) Supervised Learning Algorrithm:
+In this project we have used Neural Network model with different combination of hidden layers and layer activation functions
+ 
+
+7) Supervised Learning Algorrithm: (**Python**, **Decision Trees**, **Random Forest Classifier**, **Soft voting and Hard Voting**, **Feature Importance Concepts**)
 
 8) Social Media Project: https://github.com/Sathvik047/Finstagram
