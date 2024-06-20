@@ -2,6 +2,9 @@
 This Repo contains Few of my projects that I have worked on over the years and includes Predictive and statistical analyses using Python, R, SQL languages and also Machine Learning concepts such as (Supervised and Unsupervised Learning) 
 
 
+Below are the brief decriptions about the above writing samples and few links that will redirect you to the projects
+
+
 1) **Stock Prediction**: https://github.com/Sathvik047/SP500-Index-Price-Prediction-Model
 
 
